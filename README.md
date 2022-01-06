@@ -1,4 +1,4 @@
-<h1 align="center"># HI👍! I'am Mateus Santana</h1>
+<h1 align="center">HI👍! I'am Mateus Santana</h1>
 <h3 align="center">A  data scientist student from São Paulo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusfsantana&label=Profile%20views&color=0e75b6&style=flat" alt="mateusfsantana" /> </p>
