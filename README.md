@@ -11,6 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfsantana&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+- 🎵 Eu gosto muito de escutar, Eminem, Katy Perry e BTS.
 - send me a message!
 - 📫 How to reach me **mateusfariasantana@gmail.com**
   
